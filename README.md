@@ -130,9 +130,33 @@
   </a>
 </p>
   
+### 👉 Backend as a Service(BaaS)
+<p align="left"> 
+   &emsp;
+ <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
+   <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> 
+ </a> 
+    &emsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>   
+</p>
 
-
-
+### 👉 Framework
+<p align="left"> 
+   &emsp;
+   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+   </a> 
+    &emsp;
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+    &emsp;
+  <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
+    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+  </a> 
+</p>
 
 <br/>
 

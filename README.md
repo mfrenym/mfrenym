@@ -80,11 +80,7 @@
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
    </a> 
-   &emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-   &emsp;
+  &emsp;
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
@@ -94,66 +90,33 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
- 
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+### 👉 Mobile App Development
+<p align="left"> 
+   &emsp;
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+   &emsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
    &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+   &emsp;
+  <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> 
+  </a> 
+   &emsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+  </a> 
 </p>
+  
+
+
+
 
 <br/>
 

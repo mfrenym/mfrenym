@@ -1,5 +1,7 @@
-<h1 align="center">Hola 👋, Me llamo Miguel Freny</h1>
-<h3 align="center">Soy un Full Start apasionado.</h3>
+<h1 align="center">Hi 👋, My name is Miguel Freny</h1>
+<h3 align="center">I am a passionate Full Stack developer.</h3>
+
+<h6>"Hi! I'm an application developer who loves turning ideas into reality. I specialize in [mention your main technologies] and I'm passionate about creating applications that are both functional and visually appealing. When I'm not coding, I enjoy [mention your hobbies or interests]."</h6>
 
 - 👨‍💻 All of my projects are available at [myLinkPortafolio.com](myLinkPortafolio.com)
 
@@ -72,6 +74,18 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
+  &emsp;
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/> 
+  </a>
+  &emsp;
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxt" width="40" height="40"/> 
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
 </p>
 
 ### 👉 Backend Development
@@ -103,6 +117,14 @@
    &emsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/> 
+  </a> 
+   &emsp;
+ <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   </a> 
 </p>
 
